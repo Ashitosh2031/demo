@@ -1,4 +1,7 @@
 modification from the master
+<<<<<<< HEAD
 file1 data from branch-one
 file1 data from branch-two
+=======
+>>>>>>> branch-two
 file1 data from branch-two
